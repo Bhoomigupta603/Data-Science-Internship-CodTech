@@ -1,4 +1,4 @@
-# Task 3: End-to-End Machine Learning Project – Iris Flower Classifier 🌸
+# Task 3: End-to-End Machine Learning Project – Iris Flower Classifier
 
 ## Objective
 Build, train, and deploy a machine learning model to classify Iris flower species using a web interface.
@@ -60,12 +60,9 @@ python app.py
 4. Open browser and go to http://127.0.0.1:5000/
 
 ## Output
-
-![task3_image1](https://github.com/user-attachments/assets/6b947e72-7b16-4435-91a7-70b6ebfeca4d)
-
-![task3_image2](https://github.com/user-attachments/assets/1c69473b-8acd-4fc3-b160-87f214c37887)
-
-![task3_image3](https://github.com/user-attachments/assets/5dae2bbc-ceec-4091-9845-c157a6c667e8)
+![task3_image1](https://github.com/user-attachments/assets/711b82c2-0894-4496-b592-520bc2a231bf)
+![Uploading task3_image2.png…]()
+![Uploading task3_image3.png…]()
 
 ## Tools & Libraries Used
 - Python
