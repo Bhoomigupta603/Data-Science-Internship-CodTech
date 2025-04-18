@@ -60,9 +60,12 @@ python app.py
 4. Open browser and go to http://127.0.0.1:5000/
 
 ## Output
-![task3_image1](https://github.com/user-attachments/assets/711b82c2-0894-4496-b592-520bc2a231bf)
-![Uploading task3_image2.png…]()
-![Uploading task3_image3.png…]()
+
+![Screenshot 2025-04-18 180848](https://github.com/user-attachments/assets/8ab09a62-a59f-4259-bbdf-e5644cb0697c)
+
+![Screenshot 2025-04-18 181410](https://github.com/user-attachments/assets/ff82526d-f9c4-4d5d-a608-3f4ad4817c90)
+
+![Screenshot 2025-04-18 181511](https://github.com/user-attachments/assets/8757c2bb-d746-4877-8569-0dea7bc1dbd5)
 
 ## Tools & Libraries Used
 - Python
