@@ -61,11 +61,11 @@ python app.py
 
 ## Output
 
-![Screenshot 2025-04-18 180848](https://github.com/user-attachments/assets/8ab09a62-a59f-4259-bbdf-e5644cb0697c)
+![task3_image1](https://github.com/user-attachments/assets/46a7f145-b71e-4ae3-8463-d1b337dfb726)
 
-![Screenshot 2025-04-18 181410](https://github.com/user-attachments/assets/ff82526d-f9c4-4d5d-a608-3f4ad4817c90)
+![task3_image2](https://github.com/user-attachments/assets/38bacb41-6a91-4bc9-92de-4cbe419000df)
 
-![Screenshot 2025-04-18 181511](https://github.com/user-attachments/assets/8757c2bb-d746-4877-8569-0dea7bc1dbd5)
+![task3_image3](https://github.com/user-attachments/assets/ac3ba070-2112-4ba2-8f6e-0960eecb7c59)
 
 ## Tools & Libraries Used
 - Python
