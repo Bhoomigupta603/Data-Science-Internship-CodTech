@@ -1,11 +1,11 @@
 # Task 3: End-to-End Machine Learning Project – Iris Flower Classifier 🌸
 
-## 🔍 Objective
+## Objective
 Build, train, and deploy a machine learning model to classify Iris flower species using a web interface.
 
 ---
 
-## 📊 Dataset Used
+## Dataset Used
 - **Dataset**: Iris Dataset (built-in from `sklearn.datasets`)
 - **Features**:
   - Sepal Length
@@ -19,7 +19,7 @@ Build, train, and deploy a machine learning model to classify Iris flower specie
 
 ---
 
-## 🧠 ML Model Details
+## ML Model Details
 - **Algorithm**: Logistic Regression
 - **Preprocessing**: StandardScaler for feature scaling
 - **Training Accuracy**: Printed after model evaluation
@@ -27,7 +27,7 @@ Build, train, and deploy a machine learning model to classify Iris flower specie
 
 ---
 
-## 💻 Web App Details
+## Web App Details
 - **Framework**: Flask (Python)
 - **Frontend**: HTML + CSS (styled form for input)
 - **Function**: 
@@ -37,7 +37,9 @@ Build, train, and deploy a machine learning model to classify Iris flower specie
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
+
+```
 Task-3/
 ├── model.pkl              - trained model
 ├── scaler.pkl             - scaler for preprocessing
@@ -46,6 +48,7 @@ Task-3/
 ├── templates/             - folder needed by Flask
 │   └── index.html         - HTML frontend
 └── README.md              - correct information of whole project
+```
 
 ## How to Run the App
 1. Train the model using `iris_model.ipynb` if needed (or use existing `model.pkl`).
@@ -57,9 +60,12 @@ python app.py
 4. Open browser and go to http://127.0.0.1:5000/
 
 ## Output
-- ![Web User Interface](![alt text](image.png))
-- ![UI Input Details](![alt text](image-1.png))
-- ![Prediction Result](![alt text](image-2.png))
+
+![task3_image1](https://github.com/user-attachments/assets/6b947e72-7b16-4435-91a7-70b6ebfeca4d)
+
+![task3_image2](https://github.com/user-attachments/assets/1c69473b-8acd-4fc3-b160-87f214c37887)
+
+![task3_image3](https://github.com/user-attachments/assets/5dae2bbc-ceec-4091-9845-c157a6c667e8)
 
 ## Tools & Libraries Used
 - Python
