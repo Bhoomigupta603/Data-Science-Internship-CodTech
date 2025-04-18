@@ -24,7 +24,7 @@ A company manufactures two products (A & B). Each requires labor and materials. 
 ## Output
 - Optimal units to produce: A = 0, B = 10
 - Maximum Profit = $300
-(![alt text](image.png))
+(![alt text](image.png)
 
 
 ## Conclusion
