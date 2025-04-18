@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Iris Flower Predictor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 400px;
+            margin: 60px auto;
+            background-color: white;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+        }
+        h2 {
+            color: #34495e;
+            margin-bottom: 20px;
+        }
+        form {
+            display: grid;
+            gap: 15px;
+            text-align: left;
+        }
+        label {
+            color: #2c3e50;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #1abc9c;
+            color: white;
+            border: none;
+            padding: 12px;
+            width: 100%;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s ease;
+        }
+        button:hover {
+            background-color: #16a085;
+        }
+        .result {
+            margin-top: 25px;
+            padding: 15px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            color: #2980b9;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 12px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Iris Flower Species Predictor 🌸</h2>
+        <form method="POST">
+            <label for="sepal_length">Sepal Length (cm):</label>
+            <input type="text" id="sepal_length" name="sepal_length" required>
+
+            <label for="sepal_width">Sepal Width (cm):</label>
+            <input type="text" id="sepal_width" name="sepal_width" required>
+
+            <label for="petal_length">Petal Length (cm):</label>
+            <input type="text" id="petal_length" name="petal_length" required>
+
+            <label for="petal_width">Petal Width (cm):</label>
+            <input type="text" id="petal_width" name="petal_width" required>
+
+            <button type="submit">Predict Flower 🌼</button>
+        </form>
+
+        {% if result %}
+<div class="result">
+    🌟 {{ result }}
+</div>
+{% endif %}
+
+    </div>
+
+    <footer>© 2025 Iris Flower Classifier | CODTECH Internship</footer>
+</body>
+</html>
