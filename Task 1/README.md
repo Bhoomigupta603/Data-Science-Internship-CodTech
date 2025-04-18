@@ -18,7 +18,7 @@ Perform EDA on the Titanic dataset to understand data patterns, identify missing
 - Matplotlib, Seaborn
 
 ## Output
-![Survival by Gender]("C:\Users\LENOVO\Pictures\Screenshots\task1_image1.png")
+("C:\Users\LENOVO\Pictures\Screenshots\task1_image1.png")
 ![Survival by Class]("C:\Users\LENOVO\Pictures\Screenshots\task1_image2.png")
 ![Correlation Heatmap]("C:\Users\LENOVO\Pictures\Screenshots\task1_image3.png")
 ![Survival by Age]("C:\Users\LENOVO\Pictures\Screenshots\task1_image4.png")
