@@ -20,8 +20,10 @@ Build a deep learning model using either image or text data for classification.
 - Scikit-learn, Matplotlib
 
 ## Output
-- ![Accuracy and loss graphs](![alt text](image.png))
-- ![Trained model with predictions](![alt text](image-1.png))
+
+![task2_image1](https://github.com/user-attachments/assets/33d64d6a-97e3-4609-8f98-3c314f7a11f9)
+
+![task2_image2](https://github.com/user-attachments/assets/2623c66d-345e-42c1-ba38-ac931519e48e)
 
 ## Conclusion
 This task demonstrates how to build, train, and evaluate deep learning models for real-world classification problems.
